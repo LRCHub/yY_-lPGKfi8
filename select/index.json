@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アポカリプスなう",
+  "base_artist": "ピノキオピー",
+  "createdAt": "2026-02-06T05:43:52.290363Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アポカリプスなう",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_01_アポカリプスなう_ピノキオピー.txt"
+    }
+  ]
+}
